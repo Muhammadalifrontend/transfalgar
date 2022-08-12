@@ -1,0 +1,137 @@
+.container {
+    width: 1247px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.headr-nav{
+    background-color: rgb(186, 186, 228);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.lider-ul{
+    padding: 0;
+    width: 545px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.header-li{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;align-items: center;
+    color: rgba(31, 21, 52, 0.5);
+}
+.header-li--link-active{
+    font-weight: 700;
+    color: #1F1534; 
+}
+.header-li:hover{
+    color: red;
+}
+.main_container{
+    width: 1247px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.section_1{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section_1-right{
+    Width:693px;
+    Height:598px;
+    Top:256px;
+    Left:774px;
+}
+.hr{
+    width: 10px;
+    color: black;
+    text-decoration-color: black;
+}
+.section_2_head{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    display:contents;
+    text-align: center;
+  
+}
+.h2{
+    margin: 0 auto;
+    justify-content: center;
+}
+.section_2_button1{
+    display: flex;
+    padding-left: 300px;
+    margin-top: 50px;
+}
+.section_2_button2{
+    display: flex;
+    padding-left: 300px;
+    margin-top: 30px;
+}
+.ul-1{
+    width: 250px;
+    height: 250px;
+    margin-right: 70px;
+    border-radius: 20px;
+}
+.button{
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.section-3{
+    display: flex;
+    width: 1247px;;
+}
+.section-3_right{
+    text-align: center;
+    margin: 200px auto;
+}
+.button{
+    margin-top: 60px;
+    text-align: center;
+    Width:98px;
+    Height:60px;
+    Top:2703px;
+    Left:973px;
+
+}
+.section-4{
+    display: flex;
+    width: 1247px;
+    justify-content: center;
+    align-items: center;
+}
+.section-4_right{
+    text-align: center;
+    margin: 200px auto;
+}
+.section-5{
+    
+    Height:502px;
+    Left:274px;
+    background-color: blue;
+    Width:1120px;
+    Height:502px;
+    Top:3724px;
+    Left:242px;
+    Radius:24px;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    text-align: center;
+}
+.section-5botton{
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+}
